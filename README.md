@@ -287,6 +287,7 @@ images/
 │── architecture.png
 │── bronze.png
 │── silver.png
+│── gold.png
 │── dbt-lineage.png
 ```
 
