@@ -262,13 +262,22 @@ Through this project, I gained hands-on experience with:
 # 📷 Screenshots
 
 
+
+
+<img width="1536" height="1024" alt="ChatGPT Image Jun 29, 2026, 07_06_38 PM" src="https://github.com/user-attachments/assets/1d2568ec-f01d-4a84-8738-bdb5b61861b5" />
+
+
 <img width="1917" height="965" alt="Screenshot 2026-06-29 185639" src="https://github.com/user-attachments/assets/67b6a2f6-eba2-40f8-9ea0-3651b6bcc5d2" />
+
 
 <img width="1917" height="968" alt="Screenshot 2026-06-29 183354" src="https://github.com/user-attachments/assets/7894661f-132a-4e23-9377-66099c5e66e0" />
 
+
 <img width="1916" height="970" alt="Screenshot 2026-06-29 183958" src="https://github.com/user-attachments/assets/46be4dd0-3d5f-4671-bc51-992743c8c3e8" />
 
+
 <img width="1916" height="970" alt="Screenshot 2026-06-29 184029" src="https://github.com/user-attachments/assets/63f995c4-5ba7-403e-808d-d281f7e1200d" />
+
 
 
 Example:
@@ -276,10 +285,9 @@ Example:
 ```
 images/
 │── architecture.png
-│── dbt-lineage.png
 │── bronze.png
 │── silver.png
-│── gold.png
+│── dbt-lineage.png
 ```
 
 ---
@@ -328,7 +336,7 @@ Use Spark SQL or BI tools to analyze the transformed data.
 - Apache Spark
 - Delta Lake
 - Databricks
-- dbt Cloud
+- DBT Cloud
 - SQL
 - Data Warehousing
 - Star Schema
@@ -344,7 +352,7 @@ Use Spark SQL or BI tools to analyze the transformed data.
 **Tanishq Saini**
 
 - GitHub: https://github.com/tanishq826
-- LinkedIn: *(Add your LinkedIn URL here)*
+- LinkedIn: https://www.linkedin.com/in/tanishq-saini-b0bb17381
 
 ---
 
