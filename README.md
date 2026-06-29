@@ -50,8 +50,8 @@ The project follows industry best practices including:
              Tests + Documentation
                        │
                        ▼
-                 Gold Layer
-          (Fact & Dimension Tables)
+                   Gold Layer
+            (Fact & Dimension Tables)
                        │
                        ▼
             Business Analytics
