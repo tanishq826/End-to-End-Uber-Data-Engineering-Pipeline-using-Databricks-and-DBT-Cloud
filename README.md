@@ -263,7 +263,8 @@ Through this project, I gained hands-on experience with:
 
 Add screenshots of:
 
-file:///C:/Users/Tanishq%20Saini/Pictures/Screenshots/Screenshot%202026-06-29%20183354.png
+<img src="file:///C:/Users/Tanishq%20Saini/Pictures/Screenshots/Screenshot%202026-06-29%20183354.png
+" alt="App Screenshot" width="500">
 - Bronze Layer Tables
 - Silver Layer Tables
 - Gold Layer Tables
