@@ -51,7 +51,7 @@ The project follows industry best practices including:
                        │
                        ▼
                  Gold Layer
-     Fact & Dimension Tables
+          (Fact & Dimension Tables)
                        │
                        ▼
             Business Analytics
@@ -264,7 +264,7 @@ Through this project, I gained hands-on experience with:
 
 
 
-<img width="1536" height="1024" alt="ChatGPT Image Jun 29, 2026, 07_06_38 PM" src="https://github.com/user-attachments/assets/1d2568ec-f01d-4a84-8738-bdb5b61861b5" />
+<img width="1536" height="1024" alt="Jun 29, 2026, 07_13_19 PM" src="https://github.com/user-attachments/assets/67b6132c-cdb9-4e00-95cb-110adc9e6bd1" />
 
 
 <img width="1917" height="965" alt="Screenshot 2026-06-29 185639" src="https://github.com/user-attachments/assets/67b6a2f6-eba2-40f8-9ea0-3651b6bcc5d2" />
