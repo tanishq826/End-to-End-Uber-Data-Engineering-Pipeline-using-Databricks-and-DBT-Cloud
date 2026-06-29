@@ -263,14 +263,10 @@ Through this project, I gained hands-on experience with:
 
 Add screenshots of:
 
-<img src="file:///C:/Users/Tanishq%20Saini/Pictures/Screenshots/Screenshot%202026-06-29%20183354.png
-" alt="App Screenshot" width="500">
-- Bronze Layer Tables
-- Silver Layer Tables
-- Gold Layer Tables
-- dbt DAG
-- dbt Documentation
-- dbt Test Results
+<img width="1917" height="968" alt="Screenshot 2026-06-29 183354" src="https://github.com/user-attachments/assets/7894661f-132a-4e23-9377-66099c5e66e0" />
+<img width="1916" height="970" alt="Screenshot 2026-06-29 183958" src="https://github.com/user-attachments/assets/46be4dd0-3d5f-4671-bc51-992743c8c3e8" />
+<img width="1916" height="970" alt="Screenshot 2026-06-29 184029" src="https://github.com/user-attachments/assets/63f995c4-5ba7-403e-808d-d281f7e1200d" />
+
 
 Example:
 
