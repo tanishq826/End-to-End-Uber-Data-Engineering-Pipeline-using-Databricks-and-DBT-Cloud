@@ -37,24 +37,24 @@ The project follows industry best practices including:
                        ▼
               Databricks File System
                        │
-                Bronze Layer
-             (Raw Delta Tables)
+                  Bronze Layer
+               (Raw Delta Tables)
                        │
                        ▼
-                Silver Layer
-        (Cleaned & Standardized Data)
+                  Silver Layer
+          (Cleaned & Standardized Data)
                        │
                        ▼
                  dbt Cloud Models
                        │
-             Tests + Documentation
+               Tests + Documentation
                        │
                        ▼
                    Gold Layer
             (Fact & Dimension Tables)
                        │
                        ▼
-            Business Analytics
+               Business Analytics
 ```
 
 ---
